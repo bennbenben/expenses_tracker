@@ -1,2 +1,2 @@
 # Expenses_tracks
-adulting - just being conscientious about my own spendings
+adulting - just starting to be more conscientious about my own spendings
