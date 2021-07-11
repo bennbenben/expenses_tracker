@@ -20,3 +20,4 @@ fill in the cell that requests for "months ago", and "breakdown" will tabulate t
 - with more transactional data, more vendors will be added
 - add more visualization charts: for instance, amount spent on each category
 - consider building it in python or another program
+- remove or hide sensitive information like specific transaction numbers (if sharing online)
