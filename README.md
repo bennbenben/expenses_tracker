@@ -1,7 +1,7 @@
-# Expenses_tracks: intended use
+# Expenses_tracks
 adulting - just starting to be more conscientious about my own spendings (personal use)
 every online expense trackers are often missing one or two functions, or customizable options - have decided to make my own
-# what is this
+# intended use
 a series of VBA codes that imports and compiles monthly credit card spendings into various pre-defined categories
 currently - it only works for UOB credit card transactions (since it is the bank that i use; identifiers from different banks need to be add in later)
 # how it works
@@ -14,3 +14,9 @@ currently - it only works for UOB credit card transactions (since it is the bank
 fill in the cell that requests for "months ago", and "breakdown" will tabulate transactions from that month
 "add to compile" - will populate the complete amount based on categories
 "clear compile" - is as self-explainatory; to clear the rows from I to Q
+
+### rooms for improvements
+- needs to be more automated
+- with more transactional data, more vendors will be added
+- add more visualization charts: for instance, amount spent on each category
+- consider building it in python or another program
